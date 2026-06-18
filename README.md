@@ -1,5 +1,5 @@
 # Smart Credit Dashboard 
-# Smart Credit — Lending Decision Platform
+# Smart Credit â€” Lending Decision Platform
 
 **Author:** Shawn Kimani Ngugi | SCT213-C002-0043/2022  
 **Institution:** Jomo Kenyatta University of Agriculture and Technology (JKUAT)  
@@ -12,11 +12,11 @@
 An interactive ML-powered credit risk dashboard built with Streamlit. The platform compares Logistic Regression and XGBoost models across two credit datasets, with SHAP explainability, fairness auditing, and prescriptive scenario analysis.
 
 ## Features
-- **Borrower Assessment** — Real-time default probability with risk gauge and SHAP-based drivers
-- **Model Performance** — Cross-dataset comparison of Logistic Regression vs XGBoost
-- **Fairness & Compliance** — Demographic parity, equal opportunity, and disparate impact audit
-- **Scenario Explorer** — Risk landscape maps across borrower feature combinations
-- **Batch Scoring** — Upload CSV, score all applications, download results
+- **Borrower Assessment** â€” Real-time default probability with risk gauge and SHAP-based drivers
+- **Model Performance** â€” Cross-dataset comparison of Logistic Regression vs XGBoost
+- **Fairness & Compliance** â€” Demographic parity, equal opportunity, and disparate impact audit
+- **Scenario Explorer** â€” Risk landscape maps across borrower feature combinations
+- **Batch Scoring** â€” Upload CSV, score all applications, download results
 
 ## Methodology
 - Framework: CRISP-DM
@@ -29,3 +29,6 @@ An interactive ML-powered credit risk dashboard built with Streamlit. The platfo
 pip install -r requirements.txt
 streamlit run dashboard.py
 ```
+
+## Deployed App
+[mart-credit-interactive-user-dashboard âˆ™ main âˆ™ SMART CREDIT dash.py](https://smart-credit-interactive-user-dashboard-cueulamkjfumrdmccvctwq.streamlit.app/)
