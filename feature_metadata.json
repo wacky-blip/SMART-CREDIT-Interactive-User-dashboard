@@ -1,0 +1,29 @@
+{
+  "ds1_features": [
+    "Age",
+    "Sex",
+    "Job",
+    "Housing",
+    "Saving accounts",
+    "Checking account",
+    "Credit amount",
+    "Duration",
+    "Purpose"
+  ],
+  "ds1_num_cols": [
+    "Age",
+    "Job",
+    "Credit amount",
+    "Duration"
+  ],
+  "ds1_cat_cols": [
+    "Sex",
+    "Housing",
+    "Saving accounts",
+    "Checking account",
+    "Purpose"
+  ],
+  "thresh_cost": 0.1528140703517588,
+  "thresh_f1": 0.5763316582914573,
+  "optimal_threshold": 0.1528140703517588
+}

@@ -1,0 +1,9 @@
+Model,Dataset,Accuracy,Precision,Recall,F1-Score,AUC-ROC
+Logistic Regression (Baseline),DS1 — German Credit,0.62,0.4024,0.55,0.4648,0.641
+Logistic Regression (Baseline),DS2 — Credit Risk,0.86,0.6424,0.8826,0.7436,0.9113
+Logistic Regression (Baseline),DS3 — Loan Default,0.9723,0.9041,0.993,0.9465,0.9911
+XGBoost (Advanced),DS1 — German Credit,0.65,0.4265,0.4833,0.4531,0.6563
+XGBoost (Advanced),DS2 — Credit Risk,0.959,0.9315,0.887,0.9087,0.9287
+XGBoost (Advanced),DS3 — Loan Default,0.9999,0.9995,1,0.9997,1
+Tuned LR  (Best Params),DS1 — German Credit,0.625,0.4118,0.5833,0.4828,0.6569
+Tuned XGB (Best Params),DS1 — German Credit,0.675,0.4658,0.5667,0.5113,0.6631
